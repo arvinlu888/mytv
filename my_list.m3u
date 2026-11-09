@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 group-title="央视",CCTV-1 综合
-http://74.91.26.218:82/live/cctv1hd.m3u8
+http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-1 综合 HD
 http://69.30.245.50/live/cctv1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-2 财经
-http://74.91.26.218:82/live/cctv2hd.m3u8
+http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8
 #EXTINF:-1 group-title="央视",CCTV-3 综艺
-http://74.91.26.218:82/live/cctv3hd.m3u8
+http://bztv.tvbus.cc:8081/cdnlive/cctv3.m3u8
 #EXTINF:-1 group-title="央视",CCTV-4 中文国际亚洲
-http://74.91.26.218:82/live/cctv4hd.m3u8
+http://bztv.tvbus.cc:8081/cdnlive/cctv4.m3u8
 #EXTINF:-1 group-title="央视",CCTV-4 中文国际欧洲
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 #EXTINF:-1 group-title="央视",CCTV-4 中文国际美洲
@@ -16,29 +16,29 @@ https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 #EXTINF:-1 group-title="央视",CCTV-4K
 http://198.204.240.250:82/live/cctv4k.m3u8
 #EXTINF:-1 group-title="央视",CCTV-6 电影 HD
-http://69.30.245.50/live/cctv6.m3u8
+http://bztv.tvbus.cc:8081/cdnlive/cctv6.m3u8
 #EXTINF:-1 group-title="央视",CCTV-7 国防军事
 http://74.91.26.218:82/live/cctv7hd.m3u8
 #EXTINF:-1 group-title="央视",CCTV-8 电视剧
-http://74.91.26.218:82/live/cctv8hd.m3u8
+http://bztv.tvbus.cc:8081/cdnlive/cctv8.m3u8
 #EXTINF:-1 group-title="央视",CCTV-8K
 http://192.151.150.154/live/cctv8k.m3u8
 #EXTINF:-1 group-title="央视",CCTV-9 纪录
 https://xykt-fix.github.io/Y77.m3u8
 #EXTINF:-1 group-title="央视",CCTV-10 科教
-http://74.91.26.218:82/live/cctv10hd.m3u8
+http://bztv.tvbus.cc:8081/cdnlive/cctv10.m3u8
 #EXTINF:-1 group-title="央视",CCTV-11 戏曲
 http://74.91.26.218:82/live/cctv11hd.m3u8
 #EXTINF:-1 group-title="央视",CCTV-12 社会与法
 http://74.91.26.218:82/live/cctv12hd.m3u8
 #EXTINF:-1 group-title="央视",CCTV-13 新闻
-http://74.91.26.218:82/live/cctv13hd.m3u8
-#EXTINF:-1 group-title="央视",CCTV-13 新闻 HD
-http://go.bkpcp.top/mg/cctv13
+http://bztv.tvbus.cc:8081/cdnlive/cctv13.m3u8
+#EXTINF:-1 group-title="央视",CCTV-5 体育
+http://107.150.60.122/live/cctv5hd.m3u8
 #EXTINF:-1 group-title="央视",CCTV-14 少儿
-http://74.91.26.218:82/live/cctv14hd.m3u8
+http://bztv.tvbus.cc:8081/cdnlive/cctv14.m3u8
 #EXTINF:-1 group-title="央视",CCTV-15 音乐
-http://74.91.26.218:82/live/cctv15hd.m3u8
+http://bztv.tvbus.cc:8081/cdnlive/cctv15.m3u8
 #EXTINF:-1 group-title="央视",CCTV-16 奥林匹克
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 group-title="央视",CCTV-17 农业农村
@@ -101,8 +101,6 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225817/index.m3u8
 http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226400/index.m3u8
 #EXTINF:-1 group-title="卫视",CHC 家庭影院
 http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226399/index.m3u8
-#EXTINF:-1 group-title="卫视",东方卫视国际版
-https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8
 #EXTINF:-1 group-title="卫视",广东卫视
 https://h5cul1yar48um3t.wcetv.com/hls/gdsatellite.m3u8
 #EXTINF:-1 group-title="卫视",广东卫视美洲版
@@ -150,7 +148,7 @@ http://223.110.245.139/PLTV/4/224/3221227008/index.m3u8
 #EXTINF:-1 group-title="卫视",云南卫视
 https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
 #EXTINF:-1 group-title="卫视",浙江卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8
+http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 #EXTINF:-1 group-title="卫视",浙江国际频道
 https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 #EXTINF:-1 group-title="地方",ABN China 中文台
