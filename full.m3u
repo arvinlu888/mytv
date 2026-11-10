@@ -429,20 +429,12 @@ http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
 http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
 #EXTINF:-1 group-title="地方",南宁影视娱乐
 http://hls.nntv.cn/nnlive/YSYL_244.m3u8
-#EXTINF:-1 group-title="地方",韩国电影1
-https://ads.its-newid.net/api/manifest.m3u8?channel_id=newid_009&tp=lg_channels
-#EXTINF:-1 group-title="地方",韩国电影2
-https://ads.its-newid.net/api/manifest.m3u8?channel_id=newid_012&tp=lg_channels
-#EXTINF:-1 group-title="地方",Persiana 韩国电影
-https://korhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="地方",龙门飞甲
 http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
 #EXTINF:-1 group-title="地方",南国都市
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 #EXTINF:-1 group-title="地方",四川科教
 http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
-#EXTINF:-1 group-title="地方",韩国EBS少儿
-http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 tvg-id="黑龙江少儿" tvg-name="黑龙江少儿" group-title="地方",黑龙江少儿
 https://ls.qingting.fm/live/4972/64k.m3u8
 #EXTINF:-1 group-title="地方",七台河新闻综合
@@ -993,6 +985,14 @@ https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9
 https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
 #EXTINF:-1 tvg-id="368337" tvg-name="NHK World-Japan" group-title="日本",NHK World-Japan
 https://cdn.pishow.tv/ott/live/455/master.m3u8
+#EXTINF:-1 group-title="韩国",韩国电影1
+https://ads.its-newid.net/api/manifest.m3u8?channel_id=newid_009&tp=lg_channels
+#EXTINF:-1 group-title="韩国",韩国电影2
+https://ads.its-newid.net/api/manifest.m3u8?channel_id=newid_012&tp=lg_channels
+#EXTINF:-1 group-title="韩国",Persiana 韩国电影
+https://korhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="韩国",韩国EBS少儿
+http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 group-title="韩国",韩国 tbs 电视台
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="370152" tvg-name="ARIRANG阿里郎頻道" group-title="韩国",Arirang 阿里郎
