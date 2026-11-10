@@ -37,8 +37,6 @@ https://klmysjtzb.rcsxzx.com/hls/klmy2.m3u8
 https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" group-title="卫视",云南卫视
 https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
-#EXTINF:-1 group-title="卫视",浙江国际频道
-https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视",湖南卫视
 https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="卫视",黑龙江卫视
@@ -52,13 +50,13 @@ https://liveout.xntv.tv/a65jur/96iln2.m3u8
 #EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" group-title="卫视",延边卫视
 https://srs.iyb983.cn/video/CYS/index.m3u8
 #EXTINF:-1 group-title="地方",ABN China 中文台
-https://mediaserver.abnvideos.com/streams/abnchina_hls.m3u8
+https://mediaserver.abnvideos.com/streams/abnchina.m3u8
 #EXTINF:-1 group-title="地方",安多卫视 Ando TV
 https://vodzonghengcoltdsubbuluo.jklj.org.cn/live/hlsdvr3_186/m.m3u8
 #EXTINF:-1 group-title="地方",Angel TV 中文
-https://cloudflare.streamgato.us/gatoeast/smil:angelchinaplus.smil/playlist.m3u8
+https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8
 #EXTINF:-1 group-title="地方",Bread TV
-https://stream.hktv.com.hk/__cl/cg:prod/__c/hktv_BreadTV_hd/__op/default/__f/cdn07-strm/__cl/cg:prod/pc_mvlt/default/cg:prod/hls/AppStore/stream_0.m3u8
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 group-title="地方",发现中国 Discovering China
 https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
 #EXTINF:-1 tvg-id="广州综合台" tvg-name="广州综合台" group-title="地方",广州综合
@@ -111,16 +109,6 @@ https://live.0593tv.cn/live/d1znvar7tabf.m3u8
 https://hls.nntv.cn/nnlive/XWZH_24.m3u8
 #EXTINF:-1 group-title="地方",南宁文旅
 https://hls.nntv.cn/nnlive/WLSH_24.m3u8
-#EXTINF:-1 tvg-id="浙江教科影视" tvg-name="浙江教科影视" group-title="地方",浙江教科影视
-https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" group-title="地方",浙江少儿
-https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 group-title="地方",浙江新闻
-https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-#EXTINF:-1 group-title="地方",浙江民生休闲
-https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 group-title="地方",之江纪录
-https://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
 #EXTINF:-1 group-title="地方",东莞新闻综合
 https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 #EXTINF:-1 group-title="地方",云南娱乐
@@ -145,14 +133,6 @@ https://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8
 https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="地方",昌黎综合
 https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="地方",余姚姚江文化
-https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
-#EXTINF:-1 group-title="地方",余姚综合
-https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
-#EXTINF:-1 group-title="地方",新昌新闻综合
-https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
-#EXTINF:-1 group-title="地方",苍南新闻综合
-https://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
 #EXTINF:-1 group-title="地方",萧山新闻综合
 https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 #EXTINF:-1 group-title="地方",诸暨新闻综合
@@ -276,7 +256,7 @@ https://125.227.132.249:8080/hls/hbo_signature/index.m3u8
 #EXTINF:-1 tvg-id="456509" tvg-name="人間衛視" group-title="台湾",人间卫视
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 #EXTINF:-1 group-title="台湾",CGNTV 中文
-https://d3l6ybtzlhtgg4.cloudfront.net/out/v1/cd43006b80714d77b1ce068d23c943d2/index.m3u8
+https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
 #EXTINF:-1 tvg-id="456536" tvg-name="中天綜合台" group-title="台湾",中天电视 CTi
 https://1587538082.rsc.cdn77.org/LS-ATL-56268-6/index.m3u8
 #EXTINF:-1 group-title="台湾",大爱电视国际
@@ -290,7 +270,7 @@ https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8
 #EXTINF:-1 tvg-id="543802" tvg-name="原住民族電視台" group-title="台湾",台湾原民台
 https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 #EXTINF:-1 group-title="台湾",Supreme Master TV
-https://78449d382c39.edge.nextologies.com/SupremeMasterTV/amlst:smch/smil:smch.smil/chunklist_w1708668589_b5596000.m3u8
+https://lbs-us1.suprememastertv.com/720p.m3u8
 #EXTINF:-1 tvg-id="456645" tvg-name="台視新聞台" group-title="台湾",台视新闻
 https://live.wcetv.com/hls/master-ttvnews.m3u8
 #EXTINF:-1 group-title="台湾",WXTV
@@ -316,37 +296,35 @@ https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd4
 #EXTINF:-1 tvg-id="456575" tvg-name="緯來體育台" group-title="体育",纬来体育
 https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
 #EXTINF:-1 tvg-id="456502" tvg-name="CNN" group-title="国际",CNN International
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/7fec7c903184a6efb533a5e1c400eab106220d3c/cc-szcjen8klasch-prod-ssai2/index.m3u8
+https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 #EXTINF:-1 tvg-id="410307" tvg-name="BBC News" group-title="国际",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 group-title="国际",CNA 新加坡
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="国际",GB News
-https://cdn-apse1-prod.tsv2.amagin.com/ts-ap-southeast-1/X-NjwC3f/X-NjwC3f_025601/index_1080p.m3u8
+https://rakutenaa-lightning-gbnews-rakuten-ccoa9.amagi.tv/playlist/rakutenAA-lightning-gbnews-rakuten/playlist.m3u8
 #EXTINF:-1 group-title="国际",ABC News
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
 #EXTINF:-1 tvg-id="410310" tvg-name="Sky News" group-title="国际",Sky News
-https://sky-news-2-pl.akamaized.net/out/v1/2f479b86d83847c6a31db70598ef5758/index.m3u8
+https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
 #EXTINF:-1 group-title="国际",NHK World
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 #EXTINF:-1 group-title="国际",RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="国际",RT Documentary
-https://rt-doc.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
+https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="国际",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="国际",Newsmax
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b676cf211ecc283c446ac53/NewsmaxTV_Prod/master.m3u8
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
 #EXTINF:-1 group-title="国际",Reuters 路透
-https://amg01974-reuters-reutersnews-amgau-xe9u3.amagi.tv/playlist/amg01974-reuters-reutersnews-amgau-xe9u3/playlist.m3u8
+https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
 #EXTINF:-1 group-title="国际",Global News
-https://d18dyiwu97wm6q.cloudfront.net/abr/globalnewsac/playlist.m3u8
+https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
 #EXTINF:-1 group-title="国际",NBC News Now
-https://dai2.xumo.com/amagi_hls_data_tsaiakov001/AmagiMedia_MUX_NBCNEWS/master.m3u8
+https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 #EXTINF:-1 group-title="国际",WION
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 tvg-id="370152" tvg-name="ARIRANG阿里郎頻道" group-title="国际",Arirang 阿里郎
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000.m3u8
 #EXTINF:-1 group-title="国际",France 24 English
 https://cdn.klowd.tv/rs2/rs2_france24_eng/playlist.m3u8
 #EXTINF:-1 group-title="国际",France 24 Español
@@ -354,11 +332,11 @@ https://cdn.klowd.tv/rs2/rs2_france24_esp/playlist.m3u8
 #EXTINF:-1 group-title="国际",France 24 Français
 https://cdn.klowd.tv/rs2/rs2_france24_fr/playlist.m3u8
 #EXTINF:-1 group-title="国际",France 24 Arabe
-https://cdn.klowd.tv/rs2/rs2_france24_ar/playlist.m3u8
+https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 group-title="国际",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="国际",MovieSphere
-https://moviesphere-1-eu.rakuten.wurl.tv/playlist.m3u8
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 tvg-id="457286" tvg-name="Fashion TV HD" group-title="国际",Fashion TV
@@ -384,7 +362,7 @@ https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playl
 #EXTINF:-1 tvg-id="368355" tvg-name="Love Nature HD" group-title="国际",Love Nature HD
 https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8
 #EXTINF:-1 group-title="国际",TV BRICS 中文
-https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
+https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="国际",WCETV 31.8
 https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 #EXTINF:-1 group-title="国际",Okey 马来西亚
@@ -406,7 +384,7 @@ https://cdn3.indevs.in/stream/live/hxt/
 #EXTINF:-1 group-title="国际",金砖电视中文
 https://chibrics.mediacdn.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="国际",Al Jazeera
-https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 group-title="国际",One America News
 https://oneamericanews-roku-us.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="国际",CGTN 商业
@@ -483,8 +461,6 @@ https://reality-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67
 https://family-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/0426b7a3-6dd5-4a24-ac4c-22227a2b2f9d/4.m3u8
 #EXTINF:-1 group-title="国际",beIN SPORTS XTRA
 https://d9ssxzmclhfo4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t7en7ol3kq3sp/f881b29a-280a-4416-be20-40db0fcc0f07/3.m3u8
-#EXTINF:-1 group-title="国际",UFC
-https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/194a140c-0cf5-443e-b747-08bf621d75a8/0.m3u8
 #EXTINF:-1 group-title="国际",EBS 1TV
 https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 group-title="国际",EBS 2TV
