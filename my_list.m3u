@@ -1,8 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_CN.xml,https://epg.112114.xyz/pp.xml,https://epg.pw/xmltv/epg_HK.xml,https://epg.pw/xmltv/epg_TW.xml"
 #EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" group-title="央视",CCTV-4 中文国际欧洲
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" group-title="央视",CCTV-4 中文国际美洲
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 #EXTINF:-1 tvg-id="545941" tvg-name="CCTV-9 纪录" group-title="央视",CCTV-9 纪录
 https://xykt-fix.github.io/Y77.m3u8
 #EXTINF:-1 group-title="央视",CCTV+ 1
