@@ -196,9 +196,9 @@ https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
 #EXTINF:-1 tvg-id="黑龙江都市" tvg-name="黑龙江都市" group-title="地方",黑龙江都市
 https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
 #EXTINF:-1 group-title="地方",韩国电影1
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+https://ads.its-newid.net/api/manifest.m3u8?channel_id=newid_009&tp=lg_channels
 #EXTINF:-1 group-title="地方",韩国电影2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
+https://ads.its-newid.net/api/manifest.m3u8?channel_id=newid_012&tp=lg_channels
 #EXTINF:-1 group-title="地方",南国都市
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 #EXTINF:-1 tvg-id="黑龙江少儿" tvg-name="黑龙江少儿" group-title="地方",黑龙江少儿
