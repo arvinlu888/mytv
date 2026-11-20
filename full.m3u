@@ -1131,7 +1131,7 @@ https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8
 https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 group-title="东南亚",An Ninh TV HD
 https://freem3u.xyz/api/live/play.m3u8?vid=20
-#EXTINF:-1 group-title="东南亚",Animax Asia India (1080p)
+#EXTINF:-1 group-title="南亚",Animax Asia India (1080p)
 https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="东南亚",Aniplus Asia (720p)
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
@@ -1255,7 +1255,7 @@ https://stream.ottlive.co.in/aryatvtamil/index.m3u8
 https://mumt04.tangotv.in/m18aqlK4AASEERVATHAMTV/index.m3u8
 #EXTINF:-1 group-title="南亚",Aastha
 https://cdn.pishow.tv/ott/live/1454/master.m3u8
-#EXTINF:-1 group-title="南亚",Aastha UK
+#EXTINF:-1 group-title="英国",Aastha UK
 https://aasthaott.akamaized.net/110923/smil:aasthauk.smil/playlist.m3u8
 #EXTINF:-1 group-title="南亚",Aastha International
 https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8
@@ -1343,11 +1343,11 @@ https://newscapital.com/hls/stream.m3u8?token=Nc360PermanentSecureKey987
 https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
 #EXTINF:-1 group-title="南亚",Shiksha TV
 http://103.89.46.106:8080/hls/shikshatvhd/index.m3u8
-#EXTINF:-1 group-title="南亚",Travelxp 4K Czechia
+#EXTINF:-1 group-title="欧洲",Travelxp 4K Czechia
 http://88.212.7.14/live/travel_xp_4k/index.m3u8
-#EXTINF:-1 group-title="南亚",Travelxp Czechia
+#EXTINF:-1 group-title="欧洲",Travelxp Czechia
 http://88.212.7.14/live/travel_xp/index.m3u8
-#EXTINF:-1 group-title="南亚",Travelxp Russia
+#EXTINF:-1 group-title="俄罗斯",Travelxp Russia
 http://stream.mcquack.net/451/index.m3u8
 #EXTINF:-1 group-title="南亚",TV Today Janakpur
 https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8
@@ -1587,7 +1587,7 @@ https://rakutenaa-lightning-gbnews-rakuten-ccoa9.amagi.tv/playlist/rakutenAA-lig
 https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8
 #EXTINF:-1 group-title="英国",History Hit
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/ldsAAAAAA-timeline-samsungau/playlist.m3u8
-#EXTINF:-1 group-title="英国",Afghanistan International
+#EXTINF:-1 group-title="中东",Afghanistan International
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 group-title="英国",Ahlulbayt TV
 https://cd198.anystream.uk:8082/hls/abtv3ng/index.m3u8
@@ -1597,11 +1597,11 @@ https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/akaal_tv.
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:-1 group-title="英国",BBC Drama
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="英国",BBC Earth Czechia
+#EXTINF:-1 group-title="欧洲",BBC Earth Czechia
 http://88.212.7.14/live/test_bbc_eartch_hevc/playlist.m3u8
-#EXTINF:-1 group-title="英国",BBC Earth US
+#EXTINF:-1 group-title="美国",BBC Earth US
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
-#EXTINF:-1 group-title="英国",English Club TV
+#EXTINF:-1 group-title="欧洲",English Club TV
 https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="英国",Gems TV
 https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8
@@ -1647,11 +1647,11 @@ https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="法国",France24
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:-1 group-title="法国",CGTN Francais
+#EXTINF:-1 group-title="央视",CGTN Francais
 https://francais-liveali.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
-#EXTINF:-1 group-title="法国",4Kurd
+#EXTINF:-1 group-title="中东",4Kurd
 https://4kuhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="法国",4 Music
+#EXTINF:-1 group-title="英国",4 Music
 https://musichls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="法国",20 Minutes TV
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
@@ -1667,15 +1667,15 @@ https://srv.webtvmanager.fr:3697/stream/play.m3u8
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="法国",Monte Carlo Digital Television
 https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
-#EXTINF:-1 group-title="法国",Persiana Nostalgia
+#EXTINF:-1 group-title="中东",Persiana Nostalgia
 https://noshls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="法国",RMC Life
 https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
 #EXTINF:-1 group-title="法国",Trace Gospel
 https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8
-#EXTINF:-1 group-title="法国",Trace Gospel Nigeria and East Africa
+#EXTINF:-1 group-title="非洲",Trace Gospel Nigeria and East Africa
 https://channels.trace.plus/Traceprod/GOSPEL_ROA_hd/index.m3u8
-#EXTINF:-1 group-title="法国",Trace Gospel Southern Africa
+#EXTINF:-1 group-title="非洲",Trace Gospel Southern Africa
 https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8
 #EXTINF:-1 group-title="法国",TV5MONDE Chefs
 https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
@@ -1683,11 +1683,11 @@ https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
 https://live.azenagroup.com/zenith/index.ll.m3u8
 #EXTINF:-1 group-title="德国",3sat
 https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8
-#EXTINF:-1 group-title="德国",16 Anni e Incinta
+#EXTINF:-1 group-title="欧洲",16 Anni e Incinta
 https://jmp2.uk/plu-60940a07d88ba90007b9cb71.m3u8
-#EXTINF:-1 group-title="德国",90210
+#EXTINF:-1 group-title="美国",90210
 https://jmp2.uk/plu-65a67dd13af63d0008257f17.m3u8
-#EXTINF:-1 group-title="德国",Adria Music Television
+#EXTINF:-1 group-title="欧洲",Adria Music Television
 https://adriaapp.b-cdn.net/1080p/index.m3u8
 #EXTINF:-1 group-title="德国",Adventure Earth
 https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
@@ -1721,7 +1721,7 @@ https://mvg-mv.otteravision.com/mvg/mv/mv_1080p.m3u8
 http://90.183.52.46:4000/play/a046/index.m3u8
 #EXTINF:-1 group-title="德国",QVC
 https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
-#EXTINF:-1 tvg-id="410310" tvg-name="Sky News" group-title="欧洲",Sky News
+#EXTINF:-1 tvg-id="410310" tvg-name="Sky News" group-title="英国",Sky News
 https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
 #EXTINF:-1 group-title="欧洲",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
@@ -1871,7 +1871,7 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
 https://boing.akamaized.net/6380392800112/eu-central-1/6284318116001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoib3dwbnN1LmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjI4NDMxODExNjAwMSIsImVobiI6ImJvaW5nLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYyODQzMTgxMTYwMDEiXSwianRpIjoiNjM4MDM5MjgwMDExMiJ9.0RWQ0yZrauU0cHSnbpBYhgyRPeq1Lyw6nOn_fo7_cg0/playlist-hls.m3u8
 #EXTINF:-1 group-title="欧洲",Bollywood Classic Romania
 https://hls02ns.antenaplay.ro/hls/bollywood-sd/index.m3u8
-#EXTINF:-1 group-title="欧洲",Bollywood HD Russia
+#EXTINF:-1 group-title="俄罗斯",Bollywood HD Russia
 https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
 #EXTINF:-1 group-title="欧洲",Bon Dia TV
 https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
@@ -1965,7 +1965,7 @@ https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8
 https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8
 #EXTINF:-1 group-title="欧洲",Rakuten TV Family Movies Italy
 https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8
-#EXTINF:-1 group-title="欧洲",Rakuten TV Family Movies UK
+#EXTINF:-1 group-title="英国",Rakuten TV Family Movies UK
 https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
 #EXTINF:-1 group-title="欧洲",Rybalka
 https://dash2.antik.sk/live/test_rybalka_tv_atktv/playlist.m3u8
@@ -2011,7 +2011,7 @@ https://mediaserver.abnvideos.com/streams/abnchina.m3u8
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 #EXTINF:-1 group-title="美国",Newsmax
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
-#EXTINF:-1 group-title="美国",Reuters 路透
+#EXTINF:-1 group-title="英国",Reuters 路透
 https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
 #EXTINF:-1 group-title="美国",NBC News Now
 https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
@@ -2023,7 +2023,7 @@ https://ntd02.akamaized.net/HD-NY/index.m3u8
 https://ntd02.akamaized.net/HD-LA/index.m3u8
 #EXTINF:-1 group-title="美国",新唐人亚太
 https://live.ntdtv.com/aplive200/playlist.m3u8
-#EXTINF:-1 group-title="美国",新唐人加拿大
+#EXTINF:-1 group-title="加拿大",新唐人加拿大
 https://live.ntdtv.com/mllive860/playlist.m3u8
 #EXTINF:-1 group-title="美国",新唐人中国
 https://live.ntdtv.com/cnlive900/playlist.m3u8
@@ -2089,11 +2089,11 @@ https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
 https://30a-tv.com/feeds/vidaa/cars.m3u8
 #EXTINF:-1 group-title="美国",48 Hours
 https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
-#EXTINF:-1 group-title="美国",48 Hours CA
+#EXTINF:-1 group-title="加拿大",48 Hours CA
 https://jmp2.uk/plu-62e925bc68d18a00077bb990.m3u8
 #EXTINF:-1 group-title="美国",50 Cent Action
 https://jmp2.uk/plu-68487fb3f212bedacf5a53e3.m3u8
-#EXTINF:-1 group-title="美国",A&E Latin America
+#EXTINF:-1 group-title="拉美",A&E Latin America
 http://138.121.15.230:9002/A&E/index.m3u8
 #EXTINF:-1 group-title="美国",ABC KAAL
 https://amg01942-amg01942c6-stirr-us-10178.playouts.now.amagi.tv/playlist.m3u8
@@ -2125,15 +2125,15 @@ https://amg00327-coxmediagroup-wftvbreaking-ono-hec7b.amagi.tv/playlist/amg00327
 https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8
 #EXTINF:-1 group-title="美国",ABHP TV
 https://vietprocast.app/hls/abhp/index.m3u8
-#EXTINF:-1 group-title="美国",ABN Afghanistan
+#EXTINF:-1 group-title="中东",ABN Afghanistan
 https://mediaserver.abnvideos.com/streams/abnafghanistan.m3u8
-#EXTINF:-1 group-title="美国",ABN Africa
+#EXTINF:-1 group-title="非洲",ABN Africa
 https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
 #EXTINF:-1 group-title="美国",ABN Bible Movies Channel
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
-#EXTINF:-1 group-title="美国",ABN TV India
+#EXTINF:-1 group-title="南亚",ABN TV India
 https://mediaserver.abnvideos.com/streams/abntvindia.m3u8
-#EXTINF:-1 group-title="美国",ABN Urdu
+#EXTINF:-1 group-title="南亚",ABN Urdu
 https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
 #EXTINF:-1 group-title="美国",Absolute Reality by WE TV
 https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
@@ -2155,7 +2155,7 @@ https://2-fss-1.streamhoster.com/pl_154/amlst:205432-2055980/playlist.m3u8
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/athens/live/ch2/video.m3u8
 #EXTINF:-1 group-title="美国",Adrenalina Pura TV
 https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8
-#EXTINF:-1 group-title="美国",Adrenalina Pura TV Brazil
+#EXTINF:-1 group-title="拉美",Adrenalina Pura TV Brazil
 https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
 #EXTINF:-1 group-title="美国",Adult Swim West
 https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
@@ -2169,7 +2169,7 @@ https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8
 https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/playlist.m3u8
 #EXTINF:-1 group-title="美国",Al Horreya TV
 http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3/playlist.m3u8
-#EXTINF:-1 group-title="美国",Alerte a Malibu
+#EXTINF:-1 group-title="法国",Alerte a Malibu
 https://jmp2.uk/plu-60afaa535580be0007ac9ee4.m3u8
 #EXTINF:-1 group-title="美国",All Reality by WE tv
 https://jmp2.uk/plu-5e82530945600e0007ca076c.m3u8
@@ -2179,11 +2179,11 @@ https://amc-allweddings-1-us.xumo.wurl.tv/playlist.m3u8
 https://df1zke3zj042m.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="美国",Always Funny Videos
 https://d24l3uppudokci.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="美国",AMC Series Latin America
+#EXTINF:-1 group-title="拉美",AMC Series Latin America
 http://45.171.64.30:6060/play/a005/index.m3u8
 #EXTINF:-1 group-title="美国",America's Next Top Model
 https://jmp2.uk/plu-68757c45759366af05b3b199.m3u8
-#EXTINF:-1 group-title="美国",America's Next Top Model CA
+#EXTINF:-1 group-title="加拿大",America's Next Top Model CA
 https://jmp2.uk/plu-68679fc6bb46d0bdd38ac9a4.m3u8
 #EXTINF:-1 group-title="美国",America's Test Kitchen
 https://jmp2.uk/plu-5e84f54a82f05300080e6746.m3u8
@@ -2195,17 +2195,17 @@ https://tdameritrade-vizio.amagi.tv/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:-1 group-title="美国",AMP 2
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch2/video.m3u8
-#EXTINF:-1 group-title="美国",Ana y los 7
+#EXTINF:-1 group-title="欧洲",Ana y los 7
 https://jmp2.uk/plu-5f1acce7f17797000718f9be.m3u8
 #EXTINF:-1 group-title="美国",Andromeda
 https://jmp2.uk/plu-6850335b5965a2fd49f7e36d.m3u8
-#EXTINF:-1 group-title="美国",Andromeda Italy
+#EXTINF:-1 group-title="欧洲",Andromeda Italy
 https://jmp2.uk/plu-60802d37ee238e0007c94e64.m3u8
-#EXTINF:-1 group-title="美国",Andromeda UK
+#EXTINF:-1 group-title="英国",Andromeda UK
 https://jmp2.uk/plu-5e8db96bccae160007c71eec.m3u8
 #EXTINF:-1 group-title="美国",Anger Management Channel
 https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8
-#EXTINF:-1 group-title="美国",Animal Planet Latin America
+#EXTINF:-1 group-title="拉美",Animal Planet Latin America
 http://190.128.214.97:64333/play/a01n/index.m3u8
 #EXTINF:-1 group-title="美国",Animation+ (1080p)
 https://pb-ioe9d0fpkd6pp.akamaized.net/playlist.m3u8
@@ -2215,7 +2215,7 @@ https://jmp2.uk/plu-6793eaa4bc03978b9bc63db1.m3u8
 https://jmp2.uk/plu-69173ce8abd4703b27f71d44.m3u8
 #EXTINF:-1 group-title="美国",Antiques Road Trip
 https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/PBSD-AntiquesRoadTripSF-samsung/playlist.m3u8
-#EXTINF:-1 group-title="美国",Antiques Roadshow UK
+#EXTINF:-1 group-title="英国",Antiques Roadshow UK
 https://bbc-antiquesroadshowuk-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="美国",Archivos Forenses
 https://jmp2.uk/plu-5f984f4a09e92d0007d74647.m3u8
@@ -2237,11 +2237,11 @@ https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(c55d1594-ad62-7434-aa1
 https://hls.avang.live/hls/stream.m3u8
 #EXTINF:-1 group-title="美国",AVI Rewind
 http://45.70.201.81:8000/play/a010/index.m3u8
-#EXTINF:-1 group-title="美国",AXN Black (United States) Hungary
+#EXTINF:-1 group-title="欧洲",AXN Black (United States) Hungary
 http://141.94.193.53/axn_black/index.m3u8
-#EXTINF:-1 group-title="美国",AXN Black (United States) Poland
+#EXTINF:-1 group-title="欧洲",AXN Black (United States) Poland
 http://185.227.34.179:8080/axn-black/index.m3u8
-#EXTINF:-1 group-title="美国",AXN Latin America
+#EXTINF:-1 group-title="拉美",AXN Latin America
 http://138.121.15.230:9002/AXN/index.m3u8
 #EXTINF:-1 group-title="美国",Baby Shark TV
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
@@ -2283,11 +2283,11 @@ https://d8975dc3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 group-title="美国",Bloomberg TV Asia Live Event
 https://bloomberg.com/media-manifest/streams/asia-event.m3u8
-#EXTINF:-1 group-title="美国",Bloomberg TV Australia
+#EXTINF:-1 group-title="澳洲",Bloomberg TV Australia
 https://bloomberg.com/media-manifest/streams/aus.m3u8
 #EXTINF:-1 group-title="美国",Bloomberg TV EMEA Live Event
 https://bloomberg.com/media-manifest/streams/eu-event.m3u8
-#EXTINF:-1 group-title="美国",Bloomberg TV Europe
+#EXTINF:-1 group-title="欧洲",Bloomberg TV Europe
 https://bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1 group-title="美国",Bloomberg TV Live Event
 https://bloomberg.com/media-manifest/streams/us-event.m3u8
@@ -2313,7 +2313,7 @@ https://airvuz-dronetv-1-us.ohlscdn.wurl.tv/playlist.m3u8
 https://drybar-drybarcomedy-1-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="美国",Duck Hunting TV
 https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8
-#EXTINF:-1 group-title="美国",E! Latin America Colombia
+#EXTINF:-1 group-title="拉美",E! Latin America Colombia
 http://38.134.250.110:8000/play/a00x/index.m3u8
 #EXTINF:-1 group-title="美国",Ebony TV by Lionsgate
 https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8
@@ -2323,11 +2323,11 @@ https://enterbcef94b.airspace-cdn.cbsivideo.com/master.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2506
 #EXTINF:-1 group-title="美国",FailArmy
 https://failarmy-international-au.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="美国",FailArmy Italy
+#EXTINF:-1 group-title="欧洲",FailArmy Italy
 https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="美国",FailArmy Poland
+#EXTINF:-1 group-title="欧洲",FailArmy Poland
 https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8
-#EXTINF:-1 group-title="美国",FailArmy UK
+#EXTINF:-1 group-title="英国",FailArmy UK
 https://failarmy-international-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="美国",Fashion Finds
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
@@ -2339,7 +2339,7 @@ https://securestream11.champds.com/LIVE/FultonCoGALIVE/FultonCoGALIVE.m3u8
 http://45.70.201.81:8000/play/a00x/index.m3u8
 #EXTINF:-1 group-title="美国",Flowers TV USA
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
-#EXTINF:-1 group-title="美国",Food Network Latin America
+#EXTINF:-1 group-title="拉美",Food Network Latin America
 http://168.196.127.137:6001/play/a09v/index.m3u8
 #EXTINF:-1 group-title="美国",Fox Business Network
 https://tvsen6.aynaott.com/foxbusiness/index.m3u8
@@ -2365,17 +2365,17 @@ https://amg09501-amg09501c1-klowdtv-us-2398.playouts.now.amagi.tv/playlist/amg09
 https://livestream.telvue.com/nashuanh3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 group-title="美国",Hasbro Legends
 https://amg02713-amg02713c11-amgplt0852.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg02713-amg02713c11-amgplt0852/playlist.m3u8
-#EXTINF:-1 group-title="美国",HBO 2 Latin America HD
+#EXTINF:-1 group-title="拉美",HBO 2 Latin America HD
 http://45.171.64.30:6060/play/a00i/index.m3u8
-#EXTINF:-1 group-title="美国",HBO Family Latin America
+#EXTINF:-1 group-title="拉美",HBO Family Latin America
 http://45.171.64.30:6060/play/a00k/index.m3u8
 #EXTINF:-1 group-title="美国",HCTV Educational Access Channel
 https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-1/live.m3u8
-#EXTINF:-1 group-title="美国",HGTV Latin America
+#EXTINF:-1 group-title="拉美",HGTV Latin America
 http://38.87.224.19:2220/play/a01p/index.m3u8
-#EXTINF:-1 group-title="美国",History 2 Latin America
+#EXTINF:-1 group-title="拉美",History 2 Latin America
 http://138.121.15.230:9002/HISTORY-2/index.m3u8
-#EXTINF:-1 group-title="美国",History Asia
+#EXTINF:-1 group-title="东南亚",History Asia
 https://freem3u.xyz/api/live/play.m3u8?vid=9856
 #EXTINF:-1 group-title="美国",Hmong Star TV
 https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
@@ -2439,11 +2439,11 @@ https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a4243540d4b911f0b6
 https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09ddaa1978319689a/index.m3u8
 #EXTINF:-1 group-title="美国",NTD TV English
 https://amg17596-ntdtv-amg17596c1-rakuten-gb-6741.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-rakutengb/playlist.m3u8
-#EXTINF:-1 group-title="美国",NTD TV English UK
+#EXTINF:-1 group-title="英国",NTD TV English UK
 https://ntd02.akamaized.net/NTD-UK/index.m3u8
 #EXTINF:-1 group-title="美国",Outdoor America
 https://d1e354daam8g5r.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="美国",Outdoor Channel Vietnam
+#EXTINF:-1 group-title="东南亚",Outdoor Channel Vietnam
 https://freem3u.xyz/api/live/play.m3u8?vid=216
 #EXTINF:-1 group-title="美国",OuterSphere
 https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
@@ -2481,7 +2481,7 @@ https://d1p1siomv3cm7b.cloudfront.net/playlist.m3u8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
 #EXTINF:-1 group-title="美国",QVC3
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
-#EXTINF:-1 group-title="美国",Rakuten Viki Poland
+#EXTINF:-1 group-title="欧洲",Rakuten Viki Poland
 https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
 #EXTINF:-1 group-title="美国",Recipe.TV
 https://a-cdn.klowdtv.com/live2/recipetv_720p/playlist.m3u8
@@ -2503,7 +2503,7 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:-1 group-title="美国",Tastemade
 https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8
-#EXTINF:-1 group-title="美国",Tastemade UK
+#EXTINF:-1 group-title="英国",Tastemade UK
 https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="美国",Tastemade en Espanol
 https://tastemadees16us-xumo.amagi.tv/playlist.m3u8
@@ -2513,7 +2513,7 @@ https://d6ef3usc6d9cl.cloudfront.net/Tastemade_Travel.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 group-title="美国",TCM West
 https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 group-title="美国",Television Caribe
+#EXTINF:-1 group-title="拉美",Television Caribe
 https://televisioncaribe.com/index.m3u8
 #EXTINF:-1 group-title="美国",The Archive
 https://linear-1080.frequency.stream/dist/cineverse/1080/hls/master/playlist.m3u8
@@ -2521,29 +2521,29 @@ https://linear-1080.frequency.stream/dist/cineverse/1080/hls/master/playlist.m3u
 https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
 #EXTINF:-1 group-title="美国",The Pet Collective
 https://the-pet-collective-international-dk.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="美国",The Pet Collective Australia
+#EXTINF:-1 group-title="澳洲",The Pet Collective Australia
 https://the-pet-collective-international-au.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="美国",The Pet Collective India
+#EXTINF:-1 group-title="南亚",The Pet Collective India
 https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="美国",The Pet Collective Italy
+#EXTINF:-1 group-title="欧洲",The Pet Collective Italy
 https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="美国",The Pet Collective Mexico
+#EXTINF:-1 group-title="拉美",The Pet Collective Mexico
 https://the-pet-collective-international-mx.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="美国",The Pet Collective Poland
+#EXTINF:-1 group-title="欧洲",The Pet Collective Poland
 https://6ec8627d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1RoZVBldENvbGxlY3RpdmVfSExT/playlist.m3u8
-#EXTINF:-1 group-title="美国",The Pet Collective Spain
+#EXTINF:-1 group-title="欧洲",The Pet Collective Spain
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="美国",The Pet Collective Sweden
+#EXTINF:-1 group-title="欧洲",The Pet Collective Sweden
 https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="美国",The Pet Collective UK
+#EXTINF:-1 group-title="英国",The Pet Collective UK
 https://the-pet-collective-international-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="美国",The Weather Channel
 https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
 #EXTINF:-1 group-title="美国",Timeless TV
 https://timelesstv1.b-cdn.net/hls/TimelessTV.m3u8
-#EXTINF:-1 group-title="美国",Tooncast Argentina
+#EXTINF:-1 group-title="拉美",Tooncast Argentina
 http://45.134.141.161:2200/ARG/Tooncast/index.m3u8
-#EXTINF:-1 group-title="美国",Tooncast SouthAmerica
+#EXTINF:-1 group-title="拉美",Tooncast SouthAmerica
 http://190.61.42.218:9000/play/a06i/index.m3u8
 #EXTINF:-1 group-title="美国",Wanted: Dead or Alive
 https://aegis-cloudfront-1.tubi.video/d5171dc7-f8c6-469c-81eb-e1ffaaed5721/playlist.m3u8
@@ -2577,11 +2577,11 @@ https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/
 https://cdn.live247stream.com/hyder/tv/playlist.m3u8
 #EXTINF:-1 group-title="加拿大",Knowledge Network
 https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
-#EXTINF:-1 group-title="加拿大",Love Nature 4K Czechia
+#EXTINF:-1 group-title="欧洲",Love Nature 4K Czechia
 http://88.212.15.50/live/test_love_nature_uhd_atktv/playlist.m3u8
-#EXTINF:-1 group-title="加拿大",Love Nature Czechia
+#EXTINF:-1 group-title="欧洲",Love Nature Czechia
 http://88.212.15.50/live/test_lovenature/playlist.m3u8
-#EXTINF:-1 group-title="加拿大",Pamir TV
+#EXTINF:-1 group-title="中东",Pamir TV
 http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 group-title="加拿大",TSC
 https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8
@@ -2807,7 +2807,7 @@ https://skynewsau-live-premium.akamaized.net/hls/live/2105305/skynewsweather/liv
 https://jukin-weatherspy-2-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="非洲",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 group-title="非洲",TV BRICS 中文
+#EXTINF:-1 group-title="俄罗斯",TV BRICS 中文
 https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="非洲",1KZN TV
 https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
@@ -2827,65 +2827,65 @@ https://www.khuwemultimedia.com/hls/mntv/mntv.m3u8
 https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="非洲",Tshwane TV
 https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="国际其他",美国之音中文
+#EXTINF:-1 group-title="美国",美国之音中文
 https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
-#EXTINF:-1 group-title="国际其他",金砖电视中文
+#EXTINF:-1 group-title="俄罗斯",金砖电视中文
 https://chibrics.mediacdn.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="国际其他",CGTN 商业
+#EXTINF:-1 group-title="央视",CGTN 商业
 https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/index_6.m3u8
 #EXTINF:-1 group-title="国际其他",Inside Outside
 https://52405cd167dc41c68edcaa842b916ccd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-au_InsideOutside/playlist.m3u8
-#EXTINF:-1 group-title="国际其他",Universal Movies
+#EXTINF:-1 group-title="美国",Universal Movies
 https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/e7275bfb-fb8d-49d8-969f-854481fa7e71/4.m3u8
-#EXTINF:-1 group-title="国际其他",Universal Western
+#EXTINF:-1 group-title="美国",Universal Western
 https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/a121f0f1-6195-47d3-aaeb-aebe124b0511/4.m3u8
-#EXTINF:-1 group-title="国际其他",Universal Crime
+#EXTINF:-1 group-title="美国",Universal Crime
 https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/8c099bf8-0c15-481f-a109-1a3162361da8/4.m3u8
-#EXTINF:-1 group-title="国际其他",Universal Monsters
+#EXTINF:-1 group-title="美国",Universal Monsters
 https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/b0f73b6d-7181-4046-ad5f-62f4efa641c3/4.m3u8
-#EXTINF:-1 group-title="国际其他",CW Gold
+#EXTINF:-1 group-title="美国",CW Gold
 https://d1d726ny1vain2.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-femoe55fvrdvc/3bef8470-bcb1-49b1-a816-0737fa4c27cd/0.m3u8
-#EXTINF:-1 group-title="国际其他",CW Forever
+#EXTINF:-1 group-title="美国",CW Forever
 https://d1sknsnbkyvie.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbcl5hxexbihh/38ec3205-dcc5-4c0f-a047-917eb2054891/0.m3u8
-#EXTINF:-1 group-title="国际其他",Sony One Comedy HITS
+#EXTINF:-1 group-title="美国",Sony One Comedy HITS
 https://9f8e2ffcd87f4c469be7194e48f84874.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-802-UK-SONYONECOMEDYHITS-LG_UK/playlist.m3u8
-#EXTINF:-1 group-title="国际其他",Sony One FAVES
+#EXTINF:-1 group-title="美国",Sony One FAVES
 https://8a4805800dac428ebbf1d3cde0cdcf87.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-806-UK-SONYONEFAVES-LG_UK/playlist.m3u8
-#EXTINF:-1 group-title="国际其他",Sony One Dragons Den
+#EXTINF:-1 group-title="美国",Sony One Dragons Den
 https://5dae1f2dfec54d8f9992b7d2ac0bc627.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-810-UK-SONYONEDRAGONSDEN-LG_UK/playlist.m3u8
 #EXTINF:-1 group-title="国际其他",Thriller TV
 https://52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-808-UK-SONYONETHRILLERTV-LG_UK/playlist.m3u8
 #EXTINF:-1 group-title="国际其他",Comedy TV
 https://ec613694ee5049d3b8f30913b619662e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-804-UK-SONYONECOMEDYTV-LG_UK/playlist.m3u8
-#EXTINF:-1 group-title="国际其他",Rakuten Comedy Movies
+#EXTINF:-1 group-title="英国",Rakuten Comedy Movies
 https://comedy-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/34b2bcf8-3a15-4ef7-bedb-04cae730c688/4.m3u8
-#EXTINF:-1 group-title="国际其他",Rakuten Drama Movies
+#EXTINF:-1 group-title="英国",Rakuten Drama Movies
 https://drama-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/c4bcddc4-dfdf-4499-ae5d-7a68c79fcde9/4.m3u8
-#EXTINF:-1 group-title="国际其他",Rakuten Romance Movies
+#EXTINF:-1 group-title="英国",Rakuten Romance Movies
 https://romance-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/812b4d9e-f255-46f1-9071-decd622f8e1b/4.m3u8
-#EXTINF:-1 group-title="国际其他",Rakuten Sci-Fi
+#EXTINF:-1 group-title="英国",Rakuten Sci-Fi
 https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/2633b8e1-37ed-4477-9e50-d6b4f489d363/4.m3u8
-#EXTINF:-1 group-title="国际其他",Rakuten Thrillers
+#EXTINF:-1 group-title="英国",Rakuten Thrillers
 https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/12886224-4a4c-4671-9894-f33d4197ac53/4.m3u8
-#EXTINF:-1 group-title="国际其他",Rakuten Top Movies
+#EXTINF:-1 group-title="英国",Rakuten Top Movies
 https://top-movies-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/8b530802-f923-43a1-8496-e871276a745f/4.m3u8
-#EXTINF:-1 group-title="国际其他",Rakuten Reality
+#EXTINF:-1 group-title="英国",Rakuten Reality
 https://reality-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/228208ef-d17f-4825-a278-eccf505de378/4.m3u8
-#EXTINF:-1 group-title="国际其他",Rakuten Family
+#EXTINF:-1 group-title="英国",Rakuten Family
 https://family-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/0426b7a3-6dd5-4a24-ac4c-22227a2b2f9d/4.m3u8
-#EXTINF:-1 group-title="国际其他",Reuters
+#EXTINF:-1 group-title="英国",Reuters
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/e7493ea5-5c1c-4d7a-a3f7-e95516048ad8/3.m3u8
-#EXTINF:-1 group-title="国际其他",CGTN Russian
+#EXTINF:-1 group-title="央视",CGTN Russian
 https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
-#EXTINF:-1 group-title="国际其他",CGTN Espanol
+#EXTINF:-1 group-title="央视",CGTN Espanol
 https://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-#EXTINF:-1 group-title="国际其他",CGTN Arabic
+#EXTINF:-1 group-title="央视",CGTN Arabic
 https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
-#EXTINF:-1 group-title="国际其他",Redbull
+#EXTINF:-1 group-title="欧洲",Redbull
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 group-title="国际其他",1TV
+#EXTINF:-1 group-title="欧洲",1TV
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
-#EXTINF:-1 group-title="国际其他",2 TV
+#EXTINF:-1 group-title="欧洲",2 TV
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 #EXTINF:-1 group-title="国际其他",98.1 Pearl FM
 https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
@@ -2897,7 +2897,7 @@ http://176.126.166.43:1935/live/312musik/playlist.m3u8
 https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
 #EXTINF:-1 group-title="国际其他",Aqlvoy
 https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="国际其他",Aruba.TV
+#EXTINF:-1 group-title="拉美",Aruba.TV
 https://cdn01.setar.aw/Canal49/canal49/playlist.m3u8
 #EXTINF:-1 group-title="国际其他",Bizz TV
 https://stream.bizzmedia.biz/bizz_tv/index.m3u8
@@ -2905,7 +2905,7 @@ https://stream.bizzmedia.biz/bizz_tv/index.m3u8
 https://tv.nucast.tv/lb/ge/bmg/index.m3u8
 #EXTINF:-1 group-title="国际其他",Bolajon
 https://stream8.cinerama.uz/1007/playlist.m3u8
-#EXTINF:-1 group-title="国际其他",Bonaire.tv (1080p)
+#EXTINF:-1 group-title="拉美",Bonaire.tv (1080p)
 https://media.streambrothers.com:1936/8506/8506/playlist.m3u8
 #EXTINF:-1 group-title="国际其他",Nueva Vida FM
 https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8
