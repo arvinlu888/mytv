@@ -1,6 +1,20 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_CN.xml,https://epg.112114.xyz/pp.xml,https://epg.pw/xmltv/epg_HK.xml,https://epg.pw/xmltv/epg_TW.xml"
 #EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" group-title="央视",CCTV-4 中文国际欧洲
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="545933" tvg-name="CCTV-2 财经" group-title="央视",CCTV-2 财经
+https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv2_1_ud.m3u8
+#EXTINF:-1 tvg-id="545934" tvg-name="CCTV-3 综艺" group-title="央视",CCTV-3 综艺
+https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv3_1/index.m3u8?b=200-1200
+#EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" group-title="央视",CCTV-4 中文国际美洲
+https://h5cul1yar48um3t.wcetv.com/hls/cctv4.m3u8
+#EXTINF:-1 tvg-id="545939" tvg-name="CCTV-7 国防军事" group-title="央视",CCTV-7 国防军事
+https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8
+#EXTINF:-1 tvg-id="545940" tvg-name="CCTV-8 电视剧" group-title="央视",CCTV-8 电视剧
+https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv8_1_hd.m3u8
+#EXTINF:-1 tvg-id="545945" tvg-name="CCTV-13 新闻" group-title="央视",CCTV-13 新闻
+https://event.pull.hebtv.com/jishi/cp1.m3u8
+#EXTINF:-1 tvg-id="545946" tvg-name="CCTV-14 少儿" group-title="央视",CCTV-14 少儿
+https://event.pull.hebtv.com/jishi/cp2.m3u8
 #EXTINF:-1 tvg-id="545941" tvg-name="CCTV-9 纪录" group-title="央视",CCTV-9 纪录
 https://xykt-fix.github.io/Y77.m3u8
 #EXTINF:-1 group-title="央视",CCTV+ 1
